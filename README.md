@@ -7,3 +7,5 @@ En este proyecto se diseñó la simulación de un ciclo de cogeneración en proc
 En el presente proyecto se plantea el diseño de la simulación de un ciclo Rankine de cogeneración básico, por medio de la interfaz de simulación Matlab/Simulink, analizando el ciclo termodinámico y presentado posibles configuraciones con el fin de determinar la optimización del ciclo dependiendo de las condiciones de trabajo iniciales determinadas por el usuario. A continuación, se presenta el diseño correspondiente a esta simulación planteado en Simulink:
 ![img](https://github.com/DiegoCoy09/Simulacion_Proyecto_Matlab/blob/main/Img/1.png)
 
+![img](https://github.com/DiegoCoy09/Simulacion_Proyecto_Matlab/blob/main/Img/1.png)
+
