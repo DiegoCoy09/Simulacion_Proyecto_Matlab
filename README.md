@@ -9,3 +9,6 @@ En el presente proyecto se plantea el diseño de la simulación de un ciclo Rank
 
 ![img](https://github.com/DiegoCoy09/Simulacion_Proyecto_Matlab/blob/main/Img/2.png)
 
+En la siguiente imagen se observa la interfaz grafica realizada para la interacción con el usuario, el cual tiene la opción de elegir las condiciones iniciales del proceso para obtener el resultado de la eficiencia del proceso:
+
+![img](https://github.com/DiegoCoy09/Simulacion_Proyecto_Matlab/blob/main/Img/3.JPG)
